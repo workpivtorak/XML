@@ -1,1 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<reports>
+   <!-- My bug reports-->
+      <!-- Epicentrk.ua -->
+          <bugs count="3">         
+           <Id>D1</Id>
+             <Summary>Write appeal</Summary>
+               <data>incorrect</data>
+             <Preconditions>Go to epicentrk.ua</Preconditions>
+             <Steps>
+               <first>Scroll down</first>
+               <second>press wright us button</second>
+               <third>fill the form</third>
+             </Steps>
+             <expected>form validated</expected>
+             <actual>form not valid</actual>
+             <Severity>Minor</Severity>
+             <Priority>Low</Priority>
+             <Type>Logical</Type>
+             <Environment>Windows 10 Pro 64-bit</Environment>
+                   <Processor>AMD Athlon II 
+                     <Model>P360</Model>
+                     <core>Dual</core>
+                   </Processor>
+                   <RAM>8 gb</RAM>
+             <Attachment></Attachment>
+           <Id>D2</Id>
+             <Summary>Change of surname</Summary>
+               <data>correct</data>
+             <Preconditions>
+               <first>Go to epicentrk.ua</first>
+               <second>Have registered user</second>
+             </Preconditions>             
+             <Steps>
+               <first>login</first>
+               <second>pess my data button</second>
+               <third>change the last name</third>
+             </Steps>
+             <expected>form should notify of an error</expected>
+             <actual>field allows to keep blank</actual>
+             <Severity>Minor</Severity>
+             <Priority>Low</Priority>
+             <Type>Logical</Type>
+             <Environment>Windows 10 Pro 64-bit</Environment>
+                   <Processor>AMD Athlon II 
+                     <Model>P360</Model>
+                     <core>Dual</core>
+                   </Processor>
+                   <RAM>8 gb</RAM>
+             <Attachment></Attachment>
+           <Id>D3</Id>
+             <Summary>Change of localization</Summary>
+             <Preconditions>Go to epicentrk.ua</Preconditions>
+             <Steps>
+               <first>Open the directory</first>
+               <second>Open Products</second>
+               <third>Open Meat and meat products</third>
+               <fourth>Open Meat products</fourth>
+               <fifth>Open Marinated meat for barbecue</fifth>
+             </Steps>
+             <expected>language on the site should change according to the chosen localization</expected>
+             <actual>There is a cross-localization defect in Ukrainian product description in Russian and in Russian product description in Ukrainian</actual>
+             <Severity>Major</Severity>
+             <Priority>Low</Priority>
+             <Type>Localization</Type>
+             <Environment>Windows 10 Pro 64-bit</Environment>
+                   <Processor>AMD Athlon II 
+                     <Model>P360</Model>
+                     <core>Dual</core>
+                   </Processor>
+                   <RAM>8 gb</RAM>
+             <Attachment></Attachment>
 
+</reports>
