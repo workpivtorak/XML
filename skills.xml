@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<skills>
+   <!-- My skills -->
+      <!-- Theory -->
+        <testing>True</testing>
+        <bug_reports>True</bug_reports>
+        <documentation>True</documentation>
+        <types>True</types>
+        <methods>True</methods>
+        <areas_of_testing>True<areas_of_testing>
+        <SCRUM>True</SCRUM>
+        <SDLC>True</SDLC>
+        <STLC>True</STLC>
+        <client_server>True</client_server>
+              <logs>True</logs>
+        <HTTP>True</HTTP>
+              <methods_of_requests>True</methods_of_requests>
+              <response_codes>True</response_codes>
+              <strucrures>True</structures>
+              <Charles>True</Charles>
+              <Fidler>True</Fidler>
+        <JSON>True</JSON>
+              <structure>True</structure>
+        <XML>True</XML>
+              <structure>True</structure>
+        <API>True</API>
+              <Postman>True</Postman>
+              <autotests>True</autotests>
+        <Dev_tools>True</Dev_tools>
+              <Google_Crome>True</Google_Crome>
+              <Firefox>True</Firefox>
+        <VPN>True</VPN>
+        <Mobile_testing>True</Mobile_testing>
+              <IOS>True</IOS>
+                   <XCode>True</XCode>
+                   <proxy>True</proxy>
+                   <Charles>True</Charles>
+                   <Fidler>True</Fidler>
+              <Android>True</Android>
+                   <Android_studio></Android_studio>
+                   <ADB>True</ADB>
+                   <proxy>True</proxy>
+                   <Charles>True</Charles>
+                   <Fidler>True</Fidler>
+        <Terminal_linux>True</Terminal_linux>
+              <copying>True</copying>
+              <creating>True</creating>
+              <viewing>True</viewing>
+              <moving_files>True</moving_files>
+              <bash_scripting>True</bash_scripting>
+                    <Level>DBeginner</Level>
+        <SQL>True</SQL>
+              <Create>True</Create>
+              <Delete>True</Delete>
+              <Drop>True</Drop>
+              <Insert>True</Insert>
+              <Select>True</Select>
+              <Where>True</Where>
+              <Join>True</Join>
+        <Postgres_database>True</Postgres_database>
+              <installation>True</installation>
+              <configuration>True</configuration>
+        <Non-relational_database_Redis>True</Non-relational_database_Redis>
+        <Jmeter>True</Jmeter>
+        <Python>True</Python> 
+              <Learnin_basics>True</Learnin_basics>
+</skills>
