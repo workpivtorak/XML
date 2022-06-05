@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<biography>
+   <!-- My biography -->
+      <!-- about me -->  
+         <name>Yurii</name> 
+         <surname>Pivtorak</surname>
+         <age>30</age>
+         <married>True</married>
+         <residence>
+           <country>Ukraine</country>
+           <region>Vinnitsya</region>
+           <city>Illintsi</city>
+           <street>Lisova</street>
+           <house number="17">
+         </residence>
+      <!-- about family -->
+         <wife>
+           <name>Galina</name>
+           <age>32</age>
+         </wife>
+         <childrens count="2">
+         <doughter>
+           <name>Nika</name>
+           <age>11</age>
+         </doughter>
+         <son>
+           <name>Yegor</name>
+           <age>4</age>
+         </son>
+         <dog count="1">
+         <name>Semya</name>
+      <!-- about experience -->
+         <profession>Qa</profession>
+         <year>2021</year>
+         <work>freelancer</work>
+         <level>beginer</level>
+         <adapt>Hight</adapt>
+         <payment>500$</payment>
+</biography>
