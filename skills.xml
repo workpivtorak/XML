@@ -48,7 +48,7 @@
               <viewing>True</viewing>
               <moving_files>True</moving_files>
               <bash_scripting>True</bash_scripting>
-                    <Level>DBeginner</Level>
+                    <Level>Beginner</Level>
         <SQL>True</SQL>
               <Create>True</Create>
               <Delete>True</Delete>
