@@ -63,5 +63,5 @@
         <Non-relational_database_Redis>True</Non-relational_database_Redis>
         <Jmeter>True</Jmeter>
         <Python>True</Python> 
-              <Learnin_basics>True</Learnin_basics>
+              <Learning_basics>True</Learnin_basics>
 </skills>
