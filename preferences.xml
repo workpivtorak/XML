@@ -32,6 +32,6 @@
          <bus>True</bus>
          <train>True</train>
          <car>True</car>
-         <sezon>spring</sezon>
+         <sezon>spring</season>
          <county>USA</country>
 </preferences>
